@@ -1,7 +1,7 @@
 {
     "name": "coder-matrix-dark",
     "displayName": "Coder Matrix Dark",
-    "description": "Coder Matrix Dark",
+    "description": "coder matrix dark",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.69.0"
@@ -13,7 +13,7 @@
         "themes": [
             {
                 "label": "Coder Matrix Dark",
-                "uiTheme": "hc-black",
+                "uiTheme": "vs-dark",
                 "path": "./themes/Coder Matrix Dark-color-theme.json"
             }
         ]
