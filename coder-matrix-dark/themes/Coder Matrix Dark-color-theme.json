@@ -662,7 +662,8 @@
 			}
 		}
 	]
-}
+,
 "statusBar.background": "#ff0000",
 
-"banner.background": "#ff0000",
+"banner.background": "#ff0000"
+}
