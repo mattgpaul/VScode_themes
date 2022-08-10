@@ -9,7 +9,7 @@
 		"activityBar.border": "#00ff00",
 
 
-		"editor.background": "#0c0c0c",
+		"editor.background": "#000000",
 		"editor.foreground": "#00ff00",
 		"editorLineNumber.activeForeground": "#00ff00",
 
@@ -63,8 +63,9 @@
 		"debugIcon.stepIntoForeground": "#00ff00",
 		"debugIcon.stepOutForeground": "#00ff00",
 		"debugIcon.stepOverForeground": "#00ff00",
+		"debugIcon.pauseForeground": "#00ff00",
 
-
+		"notebook.editorBackground": "#111111",
 		"notebookStatusSuccessIcon.foreground": "#00ff00",
 		"notebookStatusRunningIcon.foreground": "#00ff00",
 		"notebookStatusErrorIcon.foreground": "#00ff00"
